@@ -20,7 +20,7 @@ After the data is cleaned, it is inserted into an SQL database, which is used to
 
 ![Data Structure Entity Relationship Diagram](./aggiegrade-erd.png)
 
-The diagram above represents the structure and relationships used in the relational database that powers the grade distribution system. It highlights the key entities such as `Subjects`, `Courses`, `Instructors`, and `Sections`, along with their relationships. Each entity is linked to related data points, ensuring the database maintains referential integrity and allows efficient querying for the React frontend.
+The diagram above represents the structure and relationships used in the relational database that powers the grade distribution system. It highlights the key entities such as `Subjects`, `Departments`, `Instructors`, and `Sections`, along with their relationships. Each entity is linked to related data points, ensuring the database maintains referential integrity and allows efficient querying for the React frontend.
 
 ## Usage
 
